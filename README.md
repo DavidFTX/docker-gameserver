@@ -1,4 +1,4 @@
-# Game Dedicated Servers in Docker optimized for Unraid
+# Dedicated game servers in Docker, optimized for Unraid
 
 Please see the branches for a specific game.
 
