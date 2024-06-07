@@ -1,4 +1,4 @@
-# **Soulmask** dedicated server in a Docker optimized for Unraid
+# Soulmask dedicated server in a Docker optimized for Unraid
 This Docker will download and install SteamCMD and the dedicated server files for the game Soulmask.
 
 **Update Notice:** Simply restart the container if a newer version of the game is available.
